@@ -7,4 +7,5 @@ discuss: https://www.reddit.com/r/edX/comments/bd33m6/how_to_download_edx_course
 
 # source:
 - https://github.com/rehmatworks/edx-downloader
-- https://github.com/coursera-dl/edx-dl
+- https://github.com/Ysllllll/edx-helper
+  - origin: https://github.com/coursera-dl/edx-dl
